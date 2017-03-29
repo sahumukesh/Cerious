@@ -1,2 +1,3 @@
 # Cerious
-This project is under working condition.It is a GUI for my project Cerious(Natural language to C code converter)
+ This is a Dessktop Application which takes user's speech as in input and generates corresponding C Code as output.
+ User can also write code and modify it.
